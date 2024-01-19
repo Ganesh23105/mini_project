@@ -15,8 +15,8 @@ def add():
         query = 'use concession'
         mycursor.execute(query)
 
-        try:
-            query='create table stream(college_id int,S_name varchar(100),course varchar(100),)'
+        # try:
+        #     query='create table stream(college_id int,S_name varchar(100),course varchar(100),)'
 
         
 
